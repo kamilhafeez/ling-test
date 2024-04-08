@@ -12,8 +12,4 @@ const App = () => {
   );
 };
 
-// XMLHttpRequest = GLOBAL.originalXMLHttpRequest
-//   ? GLOBAL.originalXMLHttpRequest
-//   : GLOBAL.XMLHttpRequest;
-
 export default App;
